@@ -1,4 +1,4 @@
-# ravinder.github.io
+# ravinder-max.github.io
 <h1 align="center">Hi 👋, I'm Ravinder Singh Sanghera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cnd.dribble.com/users/1162077/screenshot/3848914/programmer.gif">
